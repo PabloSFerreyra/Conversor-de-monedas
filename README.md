@@ -1,4 +1,4 @@
-<img  alt="exchangeimg" width="800px" height="400px" align="center" src="recursos/images/alura_challenge.png" >
+<img  alt="exchangeimg" width="440px" height="440px" align="center" src="https://raw.githubusercontent.com/PabloSFerreyra/Conversor-de-monedas/main/recursos/images/dollar-with-euro-design-of-currency-converter-concept-icon-vector.jpg" >
 
 ## Conversor de monedas
 
